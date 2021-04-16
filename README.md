@@ -1,2 +1,2 @@
 # train
-second repo
+A repo to teach github
